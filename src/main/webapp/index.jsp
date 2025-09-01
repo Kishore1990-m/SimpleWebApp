@@ -99,7 +99,8 @@ h1{
             </ul>
 		
         </header>
-         <h1> Tomorrow we r going to work on Advance Tool</h1>
+         <h1> Flipkart is offering the 50 off </h1>
+
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
