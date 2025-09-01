@@ -93,13 +93,13 @@ h1{
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
-                <li><a href="#product">Product</a></li>
+                <li><a href="#Item">Item</a></li>
                 <li><a href="#pricing">Pricing</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
 		
         </header>
-         <h1> Hello R U Enjoyed Jenkins CICD Project</h1>
+         <h1> Tomorrow we r going to work on Advance Tool</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
